@@ -72,6 +72,13 @@ The course references [mqandil/pynance](https://github.com/mqandil/pynance). Thi
 
 and adjust imports per that project’s docs.
 
+## Interim submission checklist (Sunday 10 May 2026, 8:00 PM UTC)
+
+- [ ] GitHub repo public (or shared with facilitators) on branch **`task-1`**
+- [ ] `01_task1_eda.ipynb` run end-to-end on your **real** FNSPID slice (replace sample CSVs)
+- [ ] `02_task2_technical_indicators.ipynb` with **at least one** indicator on real prices (SMA/RSI/MACD)
+- [ ] Interim report (≤3 pages): loading/cleaning, EDA highlights with figures, indicator preview, challenges & plan
+
 ## License
 
 Educational use — Nova Financial Solutions challenge.
