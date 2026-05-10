@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+.env
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (keep structure; ignore large dumps — replace with your FNSPID paths)
+data/raw/*.csv
+!data/raw/fnspid_sample.csv
+!data/raw/stock_prices_sample.csv
+
+# IDE
+.idea/
+*.swp
+.DS_Store
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
